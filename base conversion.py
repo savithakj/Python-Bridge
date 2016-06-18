@@ -32,5 +32,5 @@ def baseConverter(decNumber,base):
 
     return newString
 
-print('base Conversion : ' ,baseConverter(10,16))
-print(baseConverter(25,16))
+print('base Conversion : ' ,baseConverter(26,26))
+print(baseConverter(256,16))
